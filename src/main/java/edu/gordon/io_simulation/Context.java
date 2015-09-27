@@ -56,7 +56,7 @@ public abstract class Context
     *
     *  @param amount the amount of cash to dispense
     *
-    *  Precondition: amount is <= cash on hand
+    *  Precondition: amount is lower than cash on hand
     */
    public abstract void dispenseCash(Money amount);
 
