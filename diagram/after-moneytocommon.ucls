@@ -237,8 +237,8 @@
       <operations public="true" package="true" protected="true" private="true" static="true"/>    
     </display>  
   </class>  
-  <class id="27" language="java" name="edu.gordon.io_simulation.SimulatedBank.InvalidPIN" project="log430-lab1" 
-    file="/log430-lab1/src/main/java/edu/gordon/io_simulation/SimulatedBank.java" binary="false" corner="BOTTOM_RIGHT">    
+  <class id="27" language="java" name="edu.gordon.bank_simulation.SimulatedBank.InvalidPIN" project="log430-lab1" 
+    file="/log430-lab1/src/main/java/edu/gordon/bank_simulation/SimulatedBank.java" binary="false" corner="BOTTOM_RIGHT">    
     <position height="97" width="130" x="2452" y="2503"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
@@ -266,8 +266,8 @@
       <operations public="true" package="true" protected="true" private="true" static="true"/>    
     </display>  
   </class>  
-  <class id="30" language="java" name="edu.gordon.io_simulation.SimulatedBank" project="log430-lab1" 
-    file="/log430-lab1/src/main/java/edu/gordon/io_simulation/SimulatedBank.java" binary="false" corner="BOTTOM_RIGHT">    
+  <class id="30" language="java" name="edu.gordon.bank_simulation.SimulatedBank" project="log430-lab1" 
+    file="/log430-lab1/src/main/java/edu/gordon/bank_simulation/SimulatedBank.java" binary="false" corner="BOTTOM_RIGHT">    
     <position height="223" width="235" x="2471" y="951"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
@@ -329,8 +329,8 @@
       <operations public="true" package="true" protected="true" private="true" static="true"/>    
     </display>  
   </class>  
-  <class id="37" language="java" name="edu.gordon.io_simulation.SimulatedBank.Failure" project="log430-lab1" 
-    file="/log430-lab1/src/main/java/edu/gordon/io_simulation/SimulatedBank.java" binary="false" corner="BOTTOM_RIGHT">    
+  <class id="37" language="java" name="edu.gordon.bank_simulation.SimulatedBank.Failure" project="log430-lab1" 
+    file="/log430-lab1/src/main/java/edu/gordon/bank_simulation/SimulatedBank.java" binary="false" corner="BOTTOM_RIGHT">    
     <position height="151" width="130" x="2576" y="1556"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
@@ -357,8 +357,8 @@
       <operations public="true" package="true" protected="true" private="true" static="true"/>    
     </display>  
   </class>  
-  <class id="40" language="java" name="edu.gordon.io_simulation.SimulatedBank.Success" project="log430-lab1" 
-    file="/log430-lab1/src/main/java/edu/gordon/io_simulation/SimulatedBank.java" binary="false" corner="BOTTOM_RIGHT">    
+  <class id="40" language="java" name="edu.gordon.bank_simulation.SimulatedBank.Success" project="log430-lab1" 
+    file="/log430-lab1/src/main/java/edu/gordon/bank_simulation/SimulatedBank.java" binary="false" corner="BOTTOM_RIGHT">    
     <position height="133" width="130" x="3028" y="1556"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
