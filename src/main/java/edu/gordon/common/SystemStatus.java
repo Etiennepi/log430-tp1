@@ -28,9 +28,10 @@ public class SystemStatus extends Observable
 
 	public void set(String name, boolean status) {
 		this.status.put(name, status);
+
+		// Notify the ATM that the status has changed
 		setChanged();
 		notifyObservers();
-		System.out.println("SYSTEM, " + countObservers());
 	}
 
 	public static SystemStatus getInstance() {
