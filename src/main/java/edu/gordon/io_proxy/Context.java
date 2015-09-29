@@ -1,4 +1,4 @@
-package edu.gordon.io_simulation;
+package edu.gordon.io_proxy;
 
 import edu.gordon.bank_simulation.Balances;
 import edu.gordon.common.Card;

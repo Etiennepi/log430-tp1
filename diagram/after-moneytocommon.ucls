@@ -218,8 +218,8 @@
       <operations public="true" package="true" protected="true" private="true" static="true"/>    
     </display>  
   </class>  
-  <class id="25" language="java" name="edu.gordon.simulation.LogPanel" project="log430-lab1" 
-    file="/log430-lab1/src/main/java/edu/gordon/simulation/LogPanel.java" binary="false" corner="BOTTOM_RIGHT">    
+  <class id="25" language="java" name="edu.gordon.io_simulation.LogPanel" project="log430-lab1" 
+    file="/log430-lab1/src/main/java/edu/gordon/io_simulation/LogPanel.java" binary="false" corner="BOTTOM_RIGHT">    
     <position height="115" width="134" x="962" y="1556"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
@@ -227,8 +227,8 @@
       <operations public="true" package="true" protected="true" private="true" static="true"/>    
     </display>  
   </class>  
-  <class id="26" language="java" name="edu.gordon.simulation.SimEnvelopeAcceptor" project="log430-lab1" 
-    file="/log430-lab1/src/main/java/edu/gordon/simulation/SimEnvelopeAcceptor.java" binary="false" 
+  <class id="26" language="java" name="edu.gordon.io_simulation.SimEnvelopeAcceptor" project="log430-lab1" 
+    file="/log430-lab1/src/main/java/edu/gordon/io_simulation/SimEnvelopeAcceptor.java" binary="false" 
     corner="BOTTOM_RIGHT">    
     <position height="151" width="169" x="1607" y="1556"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
@@ -237,8 +237,8 @@
       <operations public="true" package="true" protected="true" private="true" static="true"/>    
     </display>  
   </class>  
-  <class id="27" language="java" name="edu.gordon.simulation.SimulatedBank.InvalidPIN" project="log430-lab1" 
-    file="/log430-lab1/src/main/java/edu/gordon/simulation/SimulatedBank.java" binary="false" corner="BOTTOM_RIGHT">    
+  <class id="27" language="java" name="edu.gordon.io_simulation.SimulatedBank.InvalidPIN" project="log430-lab1" 
+    file="/log430-lab1/src/main/java/edu/gordon/io_simulation/SimulatedBank.java" binary="false" corner="BOTTOM_RIGHT">    
     <position height="97" width="130" x="2452" y="2503"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
@@ -246,8 +246,9 @@
       <operations public="true" package="true" protected="true" private="true" static="true"/>    
     </display>  
   </class>  
-  <class id="28" language="java" name="edu.gordon.simulation.SimOperatorPanel" project="log430-lab1" 
-    file="/log430-lab1/src/main/java/edu/gordon/simulation/SimOperatorPanel.java" binary="false" corner="BOTTOM_RIGHT">    
+  <class id="28" language="java" name="edu.gordon.io_simulation.SimOperatorPanel" project="log430-lab1" 
+    file="/log430-lab1/src/main/java/edu/gordon/io_simulation/SimOperatorPanel.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
     <position height="79" width="171" x="1647" y="951"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
@@ -255,8 +256,9 @@
       <operations public="true" package="true" protected="true" private="true" static="true"/>    
     </display>  
   </class>  
-  <class id="29" language="java" name="edu.gordon.simulation.SimReceiptPrinter" project="log430-lab1" 
-    file="/log430-lab1/src/main/java/edu/gordon/simulation/SimReceiptPrinter.java" binary="false" corner="BOTTOM_RIGHT">    
+  <class id="29" language="java" name="edu.gordon.io_simulation.SimReceiptPrinter" project="log430-lab1" 
+    file="/log430-lab1/src/main/java/edu/gordon/io_simulation/SimReceiptPrinter.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
     <position height="133" width="129" x="2059" y="951"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
@@ -264,8 +266,8 @@
       <operations public="true" package="true" protected="true" private="true" static="true"/>    
     </display>  
   </class>  
-  <class id="30" language="java" name="edu.gordon.simulation.SimulatedBank" project="log430-lab1" 
-    file="/log430-lab1/src/main/java/edu/gordon/simulation/SimulatedBank.java" binary="false" corner="BOTTOM_RIGHT">    
+  <class id="30" language="java" name="edu.gordon.io_simulation.SimulatedBank" project="log430-lab1" 
+    file="/log430-lab1/src/main/java/edu/gordon/io_simulation/SimulatedBank.java" binary="false" corner="BOTTOM_RIGHT">    
     <position height="223" width="235" x="2471" y="951"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
@@ -273,8 +275,8 @@
       <operations public="true" package="true" protected="true" private="true" static="true"/>    
     </display>  
   </class>  
-  <class id="31" language="java" name="edu.gordon.simulation.CardPanel" project="log430-lab1" 
-    file="/log430-lab1/src/main/java/edu/gordon/simulation/CardPanel.java" binary="false" corner="BOTTOM_RIGHT">    
+  <class id="31" language="java" name="edu.gordon.io_simulation.CardPanel" project="log430-lab1" 
+    file="/log430-lab1/src/main/java/edu/gordon/io_simulation/CardPanel.java" binary="false" corner="BOTTOM_RIGHT">    
     <position height="115" width="158" x="42" y="1556"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
@@ -282,8 +284,8 @@
       <operations public="true" package="true" protected="true" private="true" static="true"/>    
     </display>  
   </class>  
-  <class id="32" language="java" name="edu.gordon.simulation.Simulation" project="log430-lab1" 
-    file="/log430-lab1/src/main/java/edu/gordon/simulation/Simulation.java" binary="false" corner="BOTTOM_RIGHT">    
+  <class id="32" language="java" name="edu.gordon.io_simulation.Simulation" project="log430-lab1" 
+    file="/log430-lab1/src/main/java/edu/gordon/io_simulation/Simulation.java" binary="false" corner="BOTTOM_RIGHT">    
     <position height="439" width="222" x="1858" y="462"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
@@ -291,8 +293,8 @@
       <operations public="true" package="true" protected="true" private="true" static="true"/>    
     </display>  
   </class>  
-  <class id="33" language="java" name="edu.gordon.simulation.SimDisplay" project="log430-lab1" 
-    file="/log430-lab1/src/main/java/edu/gordon/simulation/SimDisplay.java" binary="false" corner="BOTTOM_RIGHT">    
+  <class id="33" language="java" name="edu.gordon.io_simulation.SimDisplay" project="log430-lab1" 
+    file="/log430-lab1/src/main/java/edu/gordon/io_simulation/SimDisplay.java" binary="false" corner="BOTTOM_RIGHT">    
     <position height="187" width="131" x="1330" y="1556"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
@@ -300,8 +302,8 @@
       <operations public="true" package="true" protected="true" private="true" static="true"/>    
     </display>  
   </class>  
-  <class id="34" language="java" name="edu.gordon.simulation.ATMPanel" project="log430-lab1" 
-    file="/log430-lab1/src/main/java/edu/gordon/simulation/ATMPanel.java" binary="false" corner="BOTTOM_RIGHT">    
+  <class id="34" language="java" name="edu.gordon.io_simulation.ATMPanel" project="log430-lab1" 
+    file="/log430-lab1/src/main/java/edu/gordon/io_simulation/ATMPanel.java" binary="false" corner="BOTTOM_RIGHT">    
     <position height="907" width="682" x="240" y="1556"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
@@ -309,8 +311,8 @@
       <operations public="true" package="true" protected="true" private="true" static="true"/>    
     </display>  
   </class>  
-  <class id="35" language="java" name="edu.gordon.simulation.GUI" project="log430-lab1" 
-    file="/log430-lab1/src/main/java/edu/gordon/simulation/GUI.java" binary="false" corner="BOTTOM_RIGHT">    
+  <class id="35" language="java" name="edu.gordon.io_simulation.GUI" project="log430-lab1" 
+    file="/log430-lab1/src/main/java/edu/gordon/io_simulation/GUI.java" binary="false" corner="BOTTOM_RIGHT">    
     <position height="187" width="630" x="639" y="951"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
@@ -318,8 +320,8 @@
       <operations public="true" package="true" protected="true" private="true" static="true"/>    
     </display>  
   </class>  
-  <class id="36" language="java" name="edu.gordon.simulation.SimCardReader" project="log430-lab1" 
-    file="/log430-lab1/src/main/java/edu/gordon/simulation/SimCardReader.java" binary="false" corner="BOTTOM_RIGHT">    
+  <class id="36" language="java" name="edu.gordon.io_simulation.SimCardReader" project="log430-lab1" 
+    file="/log430-lab1/src/main/java/edu/gordon/io_simulation/SimCardReader.java" binary="false" corner="BOTTOM_RIGHT">    
     <position height="151" width="161" x="1858" y="951"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
@@ -327,8 +329,8 @@
       <operations public="true" package="true" protected="true" private="true" static="true"/>    
     </display>  
   </class>  
-  <class id="37" language="java" name="edu.gordon.simulation.SimulatedBank.Failure" project="log430-lab1" 
-    file="/log430-lab1/src/main/java/edu/gordon/simulation/SimulatedBank.java" binary="false" corner="BOTTOM_RIGHT">    
+  <class id="37" language="java" name="edu.gordon.io_simulation.SimulatedBank.Failure" project="log430-lab1" 
+    file="/log430-lab1/src/main/java/edu/gordon/io_simulation/SimulatedBank.java" binary="false" corner="BOTTOM_RIGHT">    
     <position height="151" width="130" x="2576" y="1556"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
@@ -336,8 +338,9 @@
       <operations public="true" package="true" protected="true" private="true" static="true"/>    
     </display>  
   </class>  
-  <class id="38" language="java" name="edu.gordon.simulation.SimCashDispenser" project="log430-lab1" 
-    file="/log430-lab1/src/main/java/edu/gordon/simulation/SimCashDispenser.java" binary="false" corner="BOTTOM_RIGHT">    
+  <class id="38" language="java" name="edu.gordon.io_simulation.SimCashDispenser" project="log430-lab1" 
+    file="/log430-lab1/src/main/java/edu/gordon/io_simulation/SimCashDispenser.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
     <position height="115" width="203" x="2228" y="951"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
@@ -345,8 +348,8 @@
       <operations public="true" package="true" protected="true" private="true" static="true"/>    
     </display>  
   </class>  
-  <class id="39" language="java" name="edu.gordon.simulation.SimKeyboard" project="log430-lab1" 
-    file="/log430-lab1/src/main/java/edu/gordon/simulation/SimKeyboard.java" binary="false" corner="BOTTOM_RIGHT">    
+  <class id="39" language="java" name="edu.gordon.io_simulation.SimKeyboard" project="log430-lab1" 
+    file="/log430-lab1/src/main/java/edu/gordon/io_simulation/SimKeyboard.java" binary="false" corner="BOTTOM_RIGHT">    
     <position height="331" width="256" x="1330" y="951"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
@@ -354,8 +357,8 @@
       <operations public="true" package="true" protected="true" private="true" static="true"/>    
     </display>  
   </class>  
-  <class id="40" language="java" name="edu.gordon.simulation.SimulatedBank.Success" project="log430-lab1" 
-    file="/log430-lab1/src/main/java/edu/gordon/simulation/SimulatedBank.java" binary="false" corner="BOTTOM_RIGHT">    
+  <class id="40" language="java" name="edu.gordon.io_simulation.SimulatedBank.Success" project="log430-lab1" 
+    file="/log430-lab1/src/main/java/edu/gordon/io_simulation/SimulatedBank.java" binary="false" corner="BOTTOM_RIGHT">    
     <position height="133" width="130" x="3028" y="1556"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
@@ -363,8 +366,8 @@
       <operations public="true" package="true" protected="true" private="true" static="true"/>    
     </display>  
   </class>  
-  <class id="41" language="java" name="edu.gordon.simulation.BillsPanel" project="log430-lab1" 
-    file="/log430-lab1/src/main/java/edu/gordon/simulation/BillsPanel.java" binary="false" corner="BOTTOM_RIGHT">    
+  <class id="41" language="java" name="edu.gordon.io_simulation.BillsPanel" project="log430-lab1" 
+    file="/log430-lab1/src/main/java/edu/gordon/io_simulation/BillsPanel.java" binary="false" corner="BOTTOM_RIGHT">    
     <position height="115" width="154" x="1136" y="1556"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
@@ -373,457 +376,625 @@
     </display>  
   </class>  
   <association id="42">    
-    <end type="SOURCE" refId="35" navigable="false">      
-      <attribute id="43" name="billsPanel"/>      
-      <multiplicity id="44" minimum="0" maximum="1"/>    
+    <end type="SOURCE" refId="4" navigable="false">      
+      <attribute id="43" name="log">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="44" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
     </end>    
-    <end type="TARGET" refId="41" navigable="true"/>    
+    <end type="TARGET" refId="9" navigable="true"/>    
     <display labels="true" multiplicity="true"/>  
   </association>  
   <association id="45">    
-    <bendpoint x="2545" y="1556"/>    
-    <end type="SOURCE" refId="30" navigable="false">      
-      <attribute id="46" name="BALANCE"/>      
-      <multiplicity id="47" minimum="0" maximum="2147483647"/>    
+    <bendpoint x="2944" y="951"/>    
+    <bendpoint x="2778" y="1556"/>    
+    <end type="SOURCE" refId="10" navigable="false">      
+      <attribute id="46" name="amount">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="47" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
     </end>    
     <end type="TARGET" refId="24" navigable="true"/>    
     <display labels="true" multiplicity="true"/>  
   </association>  
   <association id="48">    
     <end type="SOURCE" refId="32" navigable="false">      
-      <attribute id="49" name="keyboard"/>      
-      <multiplicity id="50" minimum="0" maximum="1"/>    
-    </end>    
-    <end type="TARGET" refId="39" navigable="true"/>    
-    <display labels="true" multiplicity="true"/>  
-  </association>  
-  <association id="51">    
-    <end type="SOURCE" refId="16" navigable="false">      
-      <attribute id="52" name="operatorPanel"/>      
-      <multiplicity id="53" minimum="0" maximum="1"/>    
-    </end>    
-    <end type="TARGET" refId="3" navigable="true"/>    
-    <display labels="true" multiplicity="true"/>  
-  </association>  
-  <association id="54">    
-    <end type="SOURCE" refId="35" navigable="false">      
-      <attribute id="55" name="logPanel"/>      
-      <multiplicity id="56" minimum="0" maximum="1"/>    
-    </end>    
-    <end type="TARGET" refId="25" navigable="true"/>    
-    <display labels="true" multiplicity="true"/>  
-  </association>  
-  <association id="57">    
-    <end type="SOURCE" refId="21" navigable="false">      
-      <attribute id="58" name="available"/>      
-      <multiplicity id="59" minimum="0" maximum="1"/>    
-    </end>    
-    <end type="TARGET" refId="24" navigable="true"/>    
-    <display labels="true" multiplicity="true"/>  
-  </association>  
-  <association id="60">    
-    <end type="SOURCE" refId="39" navigable="false">      
-      <attribute id="61" name="envelopeAcceptor"/>      
-      <multiplicity id="62" minimum="0" maximum="1"/>    
-    </end>    
-    <end type="TARGET" refId="26" navigable="true"/>    
-    <display labels="true" multiplicity="true"/>  
-  </association>  
-  <association id="63">    
-    <end type="SOURCE" refId="16" navigable="false">      
-      <attribute id="64" name="cardReader"/>      
-      <multiplicity id="65" minimum="0" maximum="1"/>    
-    </end>    
-    <end type="TARGET" refId="7" navigable="true"/>    
-    <display labels="true" multiplicity="true"/>  
-  </association>  
-  <association id="66">    
-    <end type="SOURCE" refId="16" navigable="false">      
-      <attribute id="67" name="networkToBank"/>      
-      <multiplicity id="68" minimum="0" maximum="1"/>    
-    </end>    
-    <end type="TARGET" refId="8" navigable="true"/>    
-    <display labels="true" multiplicity="true"/>  
-  </association>  
-  <association id="69">    
-    <end type="SOURCE" refId="16" navigable="false">      
-      <attribute id="70" name="customerConsole"/>      
-      <multiplicity id="71" minimum="0" maximum="1"/>    
-    </end>    
-    <end type="TARGET" refId="2" navigable="true"/>    
-    <display labels="true" multiplicity="true"/>  
-  </association>  
-  <association id="72">    
-    <bendpoint x="2944" y="951"/>    
-    <bendpoint x="2778" y="1556"/>    
-    <end type="SOURCE" refId="10" navigable="false">      
-      <attribute id="73" name="amount"/>      
-      <multiplicity id="74" minimum="0" maximum="1"/>    
-    </end>    
-    <end type="TARGET" refId="24" navigable="true"/>    
-    <display labels="true" multiplicity="true"/>  
-  </association>  
-  <association id="75">    
-    <end type="SOURCE" refId="32" navigable="false">      
-      <attribute id="76" name="receiptPrinter"/>      
-      <multiplicity id="77" minimum="0" maximum="1"/>    
-    </end>    
-    <end type="TARGET" refId="29" navigable="true"/>    
-    <display labels="true" multiplicity="true"/>  
-  </association>  
-  <generalization id="78">    
-    <end type="SOURCE" refId="13"/>    
-    <end type="TARGET" refId="11"/>  
-  </generalization>  
-  <generalization id="79">    
-    <end type="SOURCE" refId="40"/>    
-    <end type="TARGET" refId="19"/>  
-  </generalization>  
-  <association id="80">    
-    <end type="SOURCE" refId="32" navigable="false">      
-      <attribute id="81" name="gui"/>      
-      <multiplicity id="82" minimum="0" maximum="1"/>    
-    </end>    
-    <end type="TARGET" refId="35" navigable="true"/>    
-    <display labels="true" multiplicity="true"/>  
-  </association>  
-  <association id="83">    
-    <end type="SOURCE" refId="3" navigable="false">      
-      <attribute id="84" name="atm"/>      
-      <multiplicity id="85" minimum="0" maximum="1"/>    
-    </end>    
-    <end type="TARGET" refId="16" navigable="true"/>    
-    <display labels="true" multiplicity="true"/>  
-  </association>  
-  <association id="86">    
-    <end type="SOURCE" refId="32" navigable="false">      
-      <attribute id="87" name="atm"/>      
-      <multiplicity id="88" minimum="0" maximum="1"/>    
-    </end>    
-    <end type="TARGET" refId="16" navigable="true"/>    
-    <display labels="true" multiplicity="true"/>  
-  </association>  
-  <nesting id="89">    
-    <end type="SOURCE" refId="30"/>    
-    <end type="TARGET" refId="40"/>  
-  </nesting>  
-  <association id="90">    
-    <end type="SOURCE" refId="32" navigable="false">      
-      <attribute id="91" name="simulatedBank"/>      
-      <multiplicity id="92" minimum="0" maximum="1"/>    
+      <attribute id="49" name="simulatedBank">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="50" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
     </end>    
     <end type="TARGET" refId="30" navigable="true"/>    
     <display labels="true" multiplicity="true"/>  
   </association>  
-  <association id="93">    
-    <end type="SOURCE" refId="35" navigable="false">      
-      <attribute id="94" name="cardPanel"/>      
-      <multiplicity id="95" minimum="0" maximum="1"/>    
-    </end>    
-    <end type="TARGET" refId="31" navigable="true"/>    
-    <display labels="true" multiplicity="true"/>  
-  </association>  
-  <association id="96">    
+  <association id="51">    
     <bendpoint x="3188" y="951"/>    
     <bendpoint x="3188" y="1556"/>    
     <end type="SOURCE" refId="20" navigable="false">      
-      <attribute id="97" name="amount"/>      
-      <multiplicity id="98" minimum="0" maximum="1"/>    
+      <attribute id="52" name="amount">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="53" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
     </end>    
     <end type="TARGET" refId="24" navigable="true"/>    
     <display labels="true" multiplicity="true"/>  
   </association>  
-  <association id="99">    
-    <end type="SOURCE" refId="20" navigable="false">      
-      <attribute id="100" name="card"/>      
-      <multiplicity id="101" minimum="0" maximum="1"/>    
+  <nesting id="54">    
+    <end type="SOURCE" refId="30"/>    
+    <end type="TARGET" refId="37"/>  
+  </nesting>  
+  <generalization id="55">    
+    <end type="SOURCE" refId="40"/>    
+    <end type="TARGET" refId="19"/>  
+  </generalization>  
+  <association id="56">    
+    <end type="SOURCE" refId="32" navigable="false">      
+      <attribute id="57" name="atm">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="58" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
     </end>    
-    <end type="TARGET" refId="22" navigable="true"/>    
+    <end type="TARGET" refId="16" navigable="true"/>    
     <display labels="true" multiplicity="true"/>  
   </association>  
-  <association id="102">    
-    <end type="SOURCE" refId="39" navigable="false">      
-      <attribute id="103" name="display"/>      
-      <multiplicity id="104" minimum="0" maximum="1"/>    
+  <association id="59">    
+    <end type="SOURCE" refId="16" navigable="false">      
+      <attribute id="60" name="customerConsole">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="61" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="2" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="62">    
+    <end type="SOURCE" refId="14"/>    
+    <end type="TARGET" refId="11"/>  
+  </generalization>  
+  <nesting id="63">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="5"/>  
+  </nesting>  
+  <generalization id="64">    
+    <end type="SOURCE" refId="13"/>    
+    <end type="TARGET" refId="11"/>  
+  </generalization>  
+  <generalization id="65">    
+    <end type="SOURCE" refId="27"/>    
+    <end type="TARGET" refId="37"/>  
+  </generalization>  
+  <association id="66">    
+    <bendpoint x="2482" y="1556"/>    
+    <end type="SOURCE" refId="30" navigable="false">      
+      <attribute id="67" name="AVAILABLE_BALANCE">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="68" minimum="0" maximum="2147483647">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="24" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="69">    
+    <end type="SOURCE" refId="16" navigable="false">      
+      <attribute id="70" name="networkToBank">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="71" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="8" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="72">    
+    <end type="SOURCE" refId="35" navigable="false">      
+      <attribute id="73" name="billsPanel">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="74" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="41" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="75">    
+    <end type="SOURCE" refId="21" navigable="false">      
+      <attribute id="76" name="total">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="77" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="24" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="78">    
+    <bendpoint x="2545" y="1556"/>    
+    <end type="SOURCE" refId="30" navigable="false">      
+      <attribute id="79" name="BALANCE">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="80" minimum="0" maximum="2147483647">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="24" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="81">    
+    <end type="SOURCE" refId="15"/>    
+    <end type="TARGET" refId="11"/>  
+  </generalization>  
+  <generalization id="82">    
+    <end type="SOURCE" refId="10"/>    
+    <end type="TARGET" refId="11"/>  
+  </generalization>  
+  <association id="83">    
+    <bendpoint x="4123" y="1556"/>    
+    <end type="SOURCE" refId="16" navigable="false">      
+      <attribute id="84" name="log">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="85" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="9" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="86">    
+    <bendpoint x="2736" y="951"/>    
+    <bendpoint x="2736" y="1556"/>    
+    <end type="SOURCE" refId="15" navigable="false">      
+      <attribute id="87" name="amount">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="88" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="24" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="89">    
+    <bendpoint x="2524" y="1556"/>    
+    <end type="SOURCE" refId="30" navigable="false">      
+      <attribute id="90" name="DAILY_WITHDRAWAL_LIMIT">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="91" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="24" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="92">    
+    <end type="SOURCE" refId="32" navigable="false">      
+      <attribute id="93" name="keyboard">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="94" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="39" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="95">    
+    <bendpoint x="1299" y="951"/>    
+    <end type="SOURCE" refId="32" navigable="false">      
+      <attribute id="96" name="display">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="97" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
     </end>    
     <end type="TARGET" refId="33" navigable="true"/>    
     <display labels="true" multiplicity="true"/>  
   </association>  
-  <association id="105">    
-    <end type="SOURCE" refId="35" navigable="false">      
-      <attribute id="106" name="atmPanel"/>      
-      <multiplicity id="107" minimum="0" maximum="1"/>    
-    </end>    
-    <end type="TARGET" refId="34" navigable="true"/>    
-    <display labels="true" multiplicity="true"/>  
-  </association>  
-  <association id="108">    
-    <bendpoint x="2797" y="462"/>    
-    <end type="SOURCE" refId="11" navigable="false">      
-      <attribute id="109" name="card"/>      
-      <multiplicity id="110" minimum="0" maximum="1"/>    
-    </end>    
-    <end type="TARGET" refId="22" navigable="true"/>    
-    <display labels="true" multiplicity="true"/>  
-  </association>  
-  <generalization id="111">    
-    <end type="SOURCE" refId="10"/>    
-    <end type="TARGET" refId="11"/>  
-  </generalization>  
-  <association id="112">    
-    <bendpoint x="2524" y="1556"/>    
-    <end type="SOURCE" refId="30" navigable="false">      
-      <attribute id="113" name="DAILY_WITHDRAWAL_LIMIT"/>      
-      <multiplicity id="114" minimum="0" maximum="1"/>    
-    </end>    
-    <end type="TARGET" refId="24" navigable="true"/>    
-    <display labels="true" multiplicity="true"/>  
-  </association>  
-  <association id="115">    
-    <end type="SOURCE" refId="32" navigable="false">      
-      <attribute id="116" name="theInstance"/>      
-      <multiplicity id="117" minimum="0" maximum="1"/>    
-    </end>    
-    <end type="TARGET" refId="32" navigable="true"/>    
-    <display labels="true" multiplicity="true"/>  
-  </association>  
-  <association id="118">    
+  <association id="98">    
     <bendpoint x="3067" y="462"/>    
     <bendpoint x="2997" y="951"/>    
     <end type="SOURCE" refId="11" navigable="false">      
-      <attribute id="119" name="balances"/>      
-      <multiplicity id="120" minimum="0" maximum="1"/>    
+      <attribute id="99" name="balances">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="100" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
     </end>    
     <end type="TARGET" refId="21" navigable="true"/>    
     <display labels="true" multiplicity="true"/>  
   </association>  
-  <association id="121">    
-    <bendpoint x="2482" y="1556"/>    
-    <end type="SOURCE" refId="30" navigable="false">      
-      <attribute id="122" name="AVAILABLE_BALANCE"/>      
-      <multiplicity id="123" minimum="0" maximum="2147483647"/>    
+  <association id="101">    
+    <bendpoint x="2757" y="951"/>    
+    <bendpoint x="2757" y="1556"/>    
+    <end type="SOURCE" refId="13" navigable="false">      
+      <attribute id="102" name="amount">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="103" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
     </end>    
     <end type="TARGET" refId="24" navigable="true"/>    
     <display labels="true" multiplicity="true"/>  
   </association>  
-  <association id="124">    
-    <bendpoint x="2503" y="1556"/>    
-    <end type="SOURCE" refId="30" navigable="false">      
-      <attribute id="125" name="WITHDRAWALS_TODAY"/>      
-      <multiplicity id="126" minimum="0" maximum="2147483647"/>    
-    </end>    
-    <end type="TARGET" refId="24" navigable="true"/>    
-    <display labels="true" multiplicity="true"/>  
-  </association>  
-  <association id="127">    
-    <end type="SOURCE" refId="21" navigable="false">      
-      <attribute id="128" name="total"/>      
-      <multiplicity id="129" minimum="0" maximum="1"/>    
-    </end>    
-    <end type="TARGET" refId="24" navigable="true"/>    
-    <display labels="true" multiplicity="true"/>  
-  </association>  
-  <association id="130">    
-    <end type="SOURCE" refId="7" navigable="false">      
-      <attribute id="131" name="atm"/>      
-      <multiplicity id="132" minimum="0" maximum="1"/>    
-    </end>    
-    <end type="TARGET" refId="16" navigable="true"/>    
-    <display labels="true" multiplicity="true"/>  
-  </association>  
-  <generalization id="133">    
-    <end type="SOURCE" refId="37"/>    
-    <end type="TARGET" refId="19"/>  
-  </generalization>  
-  <association id="134">    
-    <bendpoint x="3613" y="462"/>    
-    <end type="SOURCE" refId="11" navigable="false">      
-      <attribute id="135" name="atm"/>      
-      <multiplicity id="136" minimum="0" maximum="1"/>    
-    </end>    
-    <end type="TARGET" refId="16" navigable="true"/>    
-    <display labels="true" multiplicity="true"/>  
-  </association>  
-  <association id="137">    
+  <association id="104">    
     <end type="SOURCE" refId="16" navigable="false">      
-      <attribute id="138" name="cashDispenser"/>      
-      <multiplicity id="139" minimum="0" maximum="1"/>    
+      <attribute id="105" name="cashDispenser">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="106" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
     </end>    
     <end type="TARGET" refId="1" navigable="true"/>    
     <display labels="true" multiplicity="true"/>  
   </association>  
-  <association id="140">    
-    <bendpoint x="2757" y="951"/>    
-    <bendpoint x="2757" y="1556"/>    
-    <end type="SOURCE" refId="13" navigable="false">      
-      <attribute id="141" name="amount"/>      
-      <multiplicity id="142" minimum="0" maximum="1"/>    
-    </end>    
-    <end type="TARGET" refId="24" navigable="true"/>    
-    <display labels="true" multiplicity="true"/>  
-  </association>  
-  <association id="143">    
+  <association id="107">    
     <end type="SOURCE" refId="32" navigable="false">      
-      <attribute id="144" name="cardReader"/>      
-      <multiplicity id="145" minimum="0" maximum="1"/>    
-    </end>    
-    <end type="TARGET" refId="36" navigable="true"/>    
-    <display labels="true" multiplicity="true"/>  
-  </association>  
-  <association id="146">    
-    <end type="SOURCE" refId="32" navigable="false">      
-      <attribute id="147" name="operatorPanel"/>      
-      <multiplicity id="148" minimum="0" maximum="1"/>    
+      <attribute id="108" name="operatorPanel">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="109" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
     </end>    
     <end type="TARGET" refId="28" navigable="true"/>    
     <display labels="true" multiplicity="true"/>  
   </association>  
-  <association id="149">    
-    <bendpoint x="1299" y="951"/>    
-    <end type="SOURCE" refId="32" navigable="false">      
-      <attribute id="150" name="display"/>      
-      <multiplicity id="151" minimum="0" maximum="1"/>    
-    </end>    
-    <end type="TARGET" refId="33" navigable="true"/>    
-    <display labels="true" multiplicity="true"/>  
-  </association>  
-  <generalization id="152">    
-    <end type="SOURCE" refId="27"/>    
-    <end type="TARGET" refId="37"/>  
-  </generalization>  
-  <association id="153">    
-    <end type="SOURCE" refId="32" navigable="false">      
-      <attribute id="154" name="cashDispenser"/>      
-      <multiplicity id="155" minimum="0" maximum="1"/>    
-    </end>    
-    <end type="TARGET" refId="38" navigable="true"/>    
-    <display labels="true" multiplicity="true"/>  
-  </association>  
-  <nesting id="156">    
-    <end type="SOURCE" refId="11"/>    
-    <end type="TARGET" refId="12"/>  
-  </nesting>  
-  <association id="157">    
-    <bendpoint x="1616" y="951"/>    
-    <end type="SOURCE" refId="32" navigable="false">      
-      <attribute id="158" name="envelopeAcceptor"/>      
-      <multiplicity id="159" minimum="0" maximum="1"/>    
-    </end>    
-    <end type="TARGET" refId="26" navigable="true"/>    
-    <display labels="true" multiplicity="true"/>  
-  </association>  
-  <association id="160">    
-    <end type="SOURCE" refId="8" navigable="false">      
-      <attribute id="161" name="log"/>      
-      <multiplicity id="162" minimum="0" maximum="1"/>    
-    </end>    
-    <end type="TARGET" refId="9" navigable="true"/>    
-    <display labels="true" multiplicity="true"/>  
-  </association>  
-  <generalization id="163">    
-    <end type="SOURCE" refId="15"/>    
-    <end type="TARGET" refId="11"/>  
-  </generalization>  
-  <association id="164">    
-    <bendpoint x="4123" y="1556"/>    
-    <end type="SOURCE" refId="16" navigable="false">      
-      <attribute id="165" name="log"/>      
-      <multiplicity id="166" minimum="0" maximum="1"/>    
-    </end>    
-    <end type="TARGET" refId="9" navigable="true"/>    
-    <display labels="true" multiplicity="true"/>  
-  </association>  
-  <association id="167">    
-    <end type="SOURCE" refId="16" navigable="false">      
-      <attribute id="168" name="receiptPrinter"/>      
-      <multiplicity id="169" minimum="0" maximum="1"/>    
-    </end>    
-    <end type="TARGET" refId="6" navigable="true"/>    
-    <display labels="true" multiplicity="true"/>  
-  </association>  
-  <nesting id="170">    
-    <bendpoint x="2461" y="1556"/>    
-    <end type="SOURCE" refId="30"/>    
-    <end type="TARGET" refId="27"/>  
-  </nesting>  
-  <association id="171">    
-    <end type="SOURCE" refId="11" navigable="false">      
-      <attribute id="172" name="message"/>      
-      <multiplicity id="173" minimum="0" maximum="1"/>    
-    </end>    
-    <end type="TARGET" refId="20" navigable="true"/>    
-    <display labels="true" multiplicity="true"/>  
-  </association>  
-  <association id="174">    
-    <end type="SOURCE" refId="1" navigable="false">      
-      <attribute id="175" name="log"/>      
-      <multiplicity id="176" minimum="0" maximum="1"/>    
-    </end>    
-    <end type="TARGET" refId="9" navigable="true"/>    
-    <display labels="true" multiplicity="true"/>  
-  </association>  
-  <nesting id="177">    
-    <end type="SOURCE" refId="2"/>    
-    <end type="TARGET" refId="5"/>  
-  </nesting>  
-  <association id="178">    
-    <end type="SOURCE" refId="4" navigable="false">      
-      <attribute id="179" name="log"/>      
-      <multiplicity id="180" minimum="0" maximum="1"/>    
-    </end>    
-    <end type="TARGET" refId="9" navigable="true"/>    
-    <display labels="true" multiplicity="true"/>  
-  </association>  
-  <association id="181">    
-    <end type="SOURCE" refId="11" navigable="false">      
-      <attribute id="182" name="session"/>      
-      <multiplicity id="183" minimum="0" maximum="1"/>    
-    </end>    
-    <end type="TARGET" refId="17" navigable="true"/>    
-    <display labels="true" multiplicity="true"/>  
-  </association>  
-  <association id="184">    
-    <end type="SOURCE" refId="1" navigable="false">      
-      <attribute id="185" name="cashOnHand"/>      
-      <multiplicity id="186" minimum="0" maximum="1"/>    
-    </end>    
-    <end type="TARGET" refId="24" navigable="true"/>    
-    <display labels="true" multiplicity="true"/>  
-  </association>  
-  <association id="187">    
-    <bendpoint x="2736" y="951"/>    
-    <bendpoint x="2736" y="1556"/>    
-    <end type="SOURCE" refId="15" navigable="false">      
-      <attribute id="188" name="amount"/>      
-      <multiplicity id="189" minimum="0" maximum="1"/>    
-    </end>    
-    <end type="TARGET" refId="24" navigable="true"/>    
-    <display labels="true" multiplicity="true"/>  
-  </association>  
-  <nesting id="190">    
-    <end type="SOURCE" refId="30"/>    
-    <end type="TARGET" refId="37"/>  
-  </nesting>  
-  <association id="191">    
-    <end type="SOURCE" refId="16" navigable="false">      
-      <attribute id="192" name="envelopeAcceptor"/>      
-      <multiplicity id="193" minimum="0" maximum="1"/>    
-    </end>    
-    <end type="TARGET" refId="4" navigable="true"/>    
-    <display labels="true" multiplicity="true"/>  
-  </association>  
-  <association id="194">    
+  <association id="110">    
     <end type="SOURCE" refId="17" navigable="false">      
-      <attribute id="195" name="atm"/>      
-      <multiplicity id="196" minimum="0" maximum="1"/>    
+      <attribute id="111" name="atm">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="112" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
     </end>    
     <end type="TARGET" refId="16" navigable="true"/>    
     <display labels="true" multiplicity="true"/>  
   </association>  
-  <generalization id="197">    
-    <end type="SOURCE" refId="14"/>    
-    <end type="TARGET" refId="11"/>  
+  <association id="113">    
+    <end type="SOURCE" refId="35" navigable="false">      
+      <attribute id="114" name="logPanel">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="115" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="25" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="116">    
+    <end type="SOURCE" refId="1" navigable="false">      
+      <attribute id="117" name="cashOnHand">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="118" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="24" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="119">    
+    <end type="SOURCE" refId="32" navigable="false">      
+      <attribute id="120" name="theInstance">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="121" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="32" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="122">    
+    <bendpoint x="3613" y="462"/>    
+    <end type="SOURCE" refId="11" navigable="false">      
+      <attribute id="123" name="atm">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="124" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="16" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="125">    
+    <end type="SOURCE" refId="32" navigable="false">      
+      <attribute id="126" name="gui">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="127" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="35" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="128">    
+    <bendpoint x="2797" y="462"/>    
+    <end type="SOURCE" refId="11" navigable="false">      
+      <attribute id="129" name="card">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="130" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="22" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="131">    
+    <end type="SOURCE" refId="30"/>    
+    <end type="TARGET" refId="40"/>  
+  </nesting>  
+  <association id="132">    
+    <end type="SOURCE" refId="39" navigable="false">      
+      <attribute id="133" name="envelopeAcceptor">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="134" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="26" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="135">    
+    <end type="SOURCE" refId="16" navigable="false">      
+      <attribute id="136" name="cardReader">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="137" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="7" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="138">    
+    <end type="SOURCE" refId="8" navigable="false">      
+      <attribute id="139" name="log">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="140" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="9" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="141">    
+    <bendpoint x="1616" y="951"/>    
+    <end type="SOURCE" refId="32" navigable="false">      
+      <attribute id="142" name="envelopeAcceptor">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="143" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="26" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="144">    
+    <end type="SOURCE" refId="32" navigable="false">      
+      <attribute id="145" name="receiptPrinter">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="146" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="29" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="147">    
+    <end type="SOURCE" refId="32" navigable="false">      
+      <attribute id="148" name="cardReader">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="149" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="36" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="150">    
+    <end type="SOURCE" refId="21" navigable="false">      
+      <attribute id="151" name="available">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="152" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="24" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="153">    
+    <end type="SOURCE" refId="35" navigable="false">      
+      <attribute id="154" name="cardPanel">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="155" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="31" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="156">    
+    <end type="SOURCE" refId="35" navigable="false">      
+      <attribute id="157" name="atmPanel">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="158" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="34" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="159">    
+    <end type="SOURCE" refId="39" navigable="false">      
+      <attribute id="160" name="display">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="161" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="33" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="162">    
+    <end type="SOURCE" refId="11" navigable="false">      
+      <attribute id="163" name="message">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="164" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="20" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="165">    
+    <bendpoint x="2503" y="1556"/>    
+    <end type="SOURCE" refId="30" navigable="false">      
+      <attribute id="166" name="WITHDRAWALS_TODAY">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="167" minimum="0" maximum="2147483647">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="24" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="168">    
+    <end type="SOURCE" refId="1" navigable="false">      
+      <attribute id="169" name="log">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="170" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="9" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <nesting id="171">    
+    <bendpoint x="2461" y="1556"/>    
+    <end type="SOURCE" refId="30"/>    
+    <end type="TARGET" refId="27"/>  
+  </nesting>  
+  <nesting id="172">    
+    <end type="SOURCE" refId="11"/>    
+    <end type="TARGET" refId="12"/>  
+  </nesting>  
+  <association id="173">    
+    <end type="SOURCE" refId="16" navigable="false">      
+      <attribute id="174" name="receiptPrinter">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="175" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="6" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="176">    
+    <end type="SOURCE" refId="37"/>    
+    <end type="TARGET" refId="19"/>  
   </generalization>  
+  <association id="177">    
+    <end type="SOURCE" refId="11" navigable="false">      
+      <attribute id="178" name="session">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="179" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="17" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="180">    
+    <end type="SOURCE" refId="16" navigable="false">      
+      <attribute id="181" name="operatorPanel">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="182" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="3" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="183">    
+    <end type="SOURCE" refId="32" navigable="false">      
+      <attribute id="184" name="cashDispenser">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="185" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="38" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="186">    
+    <end type="SOURCE" refId="16" navigable="false">      
+      <attribute id="187" name="envelopeAcceptor">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="188" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="4" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="189">    
+    <end type="SOURCE" refId="20" navigable="false">      
+      <attribute id="190" name="card">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="191" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="22" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
   <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
     sort-features="false" accessors="true" visibility="true">    
     <attributes public="true" package="true" protected="true" private="true" static="true"/>    
