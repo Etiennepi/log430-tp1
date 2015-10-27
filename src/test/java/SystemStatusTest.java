@@ -3,16 +3,16 @@ import static org.junit.Assert.assertTrue;
 import org.junit.Before;
 import org.junit.Test;
 
-import edu.gordon.common.SystemStatus;
+import edu.gordon.common.StatusEventBus;
 
 public class SystemStatusTest
 {
-	private SystemStatus status;
+	private StatusEventBus status;
 	private String status1;
 
 	@Before
 	public void beforeTest() {
-		this.status = SystemStatus.getInstance();
+		this.status = StatusEventBus.getInstance();
 		this.status1 = "test";
 	}
 

@@ -4,7 +4,7 @@ import edu.gordon.bank_simulation.SimulatedBank;
 import edu.gordon.bank_simulation.Status;
 import edu.gordon.common.Card;
 import edu.gordon.common.Money;
-import edu.gordon.common.SystemStatus;
+import edu.gordon.common.StatusEventBus;
 import edu.gordon.io_proxy.Context;
 
 public class FakeContext extends Context {
@@ -32,13 +32,13 @@ public class FakeContext extends Context {
 
 	@Override
 	public Card readCard() {
-		SystemStatus.getInstance().set("cardInserted", true);
+		StatusEventBus.getInstance().set("cardInserted", true);
 		return new Card(2);
 	}
 
 	@Override
 	public void ejectCard() {
-		SystemStatus.getInstance().set("cardInserted", false);
+		StatusEventBus.getInstance().set("cardInserted", false);
 
 	}
 
@@ -135,7 +135,7 @@ public class FakeContext extends Context {
 	public void switchChanged(boolean on) {
 		// The card reader is only enabled when the switch is on
 
-    	SystemStatus status = SystemStatus.getInstance();
+    	StatusEventBus status = StatusEventBus.getInstance();
 
         if (on)
         	status.set("active", true);
@@ -147,7 +147,7 @@ public class FakeContext extends Context {
      */
     public void cardInserted()
     {
-    	SystemStatus status = SystemStatus.getInstance();
+    	StatusEventBus status = StatusEventBus.getInstance();
     	status.set("cardInserted", true);
     }
 
