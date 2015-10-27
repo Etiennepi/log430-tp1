@@ -5,26 +5,29 @@ import edu.gordon.bank_simulation.Status;
 import edu.gordon.common.Card;
 import edu.gordon.common.Money;
 import edu.gordon.common.StatusEventBus;
+import edu.gordon.common.events.CardInsertedEvent;
+import edu.gordon.common.events.TurnOffEvent;
+import edu.gordon.common.events.TurnOnEvent;
 import edu.gordon.io_proxy.Context;
 
 public class FakeContext extends Context {
 	private String mode;
 	private SimulatedBank simulatedBank;
 	private int withdrawCount = 1;
-	
+
 	public static final String INQUIRY_MODE = "1";
 	public static final String DEPOSIT_MODE = "2";
 	public static final String WITHDRAW_MODE = "3";
 	public static final String TRANSFER_MODE = "4";
-	
+
 	public FakeContext() {
 		simulatedBank = new SimulatedBank();
 	}
-	
+
 	public void setMode(String mode) {
 		this.mode = mode;
 	}
-	
+
 	@Override
 	public Money getInitialCash() {
 		return new Money(100);
@@ -32,13 +35,13 @@ public class FakeContext extends Context {
 
 	@Override
 	public Card readCard() {
-		StatusEventBus.getInstance().set("cardInserted", true);
+		StatusEventBus.getInstance().postTurnOnEvent(new TurnOnEvent());
 		return new Card(2);
 	}
 
 	@Override
 	public void ejectCard() {
-		StatusEventBus.getInstance().set("cardInserted", false);
+		StatusEventBus.getInstance().postCardInsertedEvent(new CardInsertedEvent());
 
 	}
 
@@ -69,7 +72,7 @@ public class FakeContext extends Context {
 	            input = "20";
 	        else
 	            input = "2";
-			
+
 			break;
 
 		case 2:
@@ -77,7 +80,7 @@ public class FakeContext extends Context {
 	        	input = "20";
 	        else
 	        	input = "2";
-	        
+
 			break;
 		case 3:
 	        if (mode == AMOUNT_MODE)
@@ -88,17 +91,17 @@ public class FakeContext extends Context {
 	        	}
 	        	input = Integer.toString(this.withdrawCount);
 	        	this.withdrawCount ++;
-	        
+
 			break;
 		case 4:
 	        if (mode == AMOUNT_MODE)
 	        	input = "20";
 	        else
 	        	input = "2";
-	        
+
 			break;
 		}
-		
+
 		return input;
 	}
 
@@ -138,17 +141,16 @@ public class FakeContext extends Context {
     	StatusEventBus status = StatusEventBus.getInstance();
 
         if (on)
-        	status.set("active", true);
+        	status.postTurnOnEvent(new TurnOnEvent());
         else
-        	status.set("active", false);
+        	status.postTurnOffEvent(new TurnOffEvent());
 	}
 
     /** Notify ATM that a card has been inserted
      */
     public void cardInserted()
     {
-    	StatusEventBus status = StatusEventBus.getInstance();
-    	status.set("cardInserted", true);
+		StatusEventBus.getInstance().postCardInsertedEvent(new CardInsertedEvent());
     }
 
 }
